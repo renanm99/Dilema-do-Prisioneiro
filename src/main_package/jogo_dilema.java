@@ -451,7 +451,7 @@ public class jogo_dilema {
             System.out.println("VOCÊ TRAIU");
             System.out.println("COMPARSA COOPEROU");
             System.out.println("COMPARSA PEGOU 10 ANOS");
-            System.out.println("VOCÊ ESTÁ LIVRE");
+            System.out.println("VOCÊ ESTA LIVRE");
             return 3;
 
         }else{
@@ -459,7 +459,7 @@ public class jogo_dilema {
             System.out.println("VOCÊ COOPEROU");
             System.out.println("COMPARSA TRAIU");
             System.out.println("VOCÊ PEGOU 10 ANOS");
-            System.out.println("COMPARSA ESTÁ LIVRE");
+            System.out.println("COMPARSA ESTA LIVRE");
             return 3;
         }
     }
